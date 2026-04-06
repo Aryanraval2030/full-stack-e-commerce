@@ -5,4 +5,4 @@ node_modules/
 .env
 
 # Ignore API data 
-.products.js
+data/products.js
